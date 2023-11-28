@@ -1,0 +1,104 @@
+
+        body {   background-image: url('kerala\ tourism.jpg'); 
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed; 
+            font-family: arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: solid black;
+        }
+
+        header {
+           
+    
+            background-color: #096809;
+            color:whitesmoke;
+            padding: 1px;
+            text-align: center;
+            font-style: oblique;
+            font-weight: bolder;
+            background-image: url('boat.jpg');
+            font-size: xx-large;
+            
+            
+            
+        }
+
+        nav {
+            
+            color:whitesmoke;
+            padding: 1px;
+            text-align: center;
+            font-style: normal;
+            font-size: normal;
+            font-weight: normal;
+            background-color: #130404;
+            
+          
+            
+
+        }
+
+        section {
+            padding: 0px;
+            font-size: larger;
+            font-family: inherit;
+            font-style: italic;
+            font-variant: small-caps;
+            font-weight: normal;
+            font-weight: bolder;
+            text-decoration:underline;
+            text-decoration-style: solid;
+            text-decoration-thickness: 10%;
+            text-align: center;
+            
+              font-family: Arial, sans-serif;
+              
+              margin: 1;
+              padding: 1;
+              
+              justify-content: center;
+              align-items: center;
+              height: 90;
+            }
+            
+            
+            
+            
+            
+        
+
+        footer {
+            background-color: #130404;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        
+        
+        
+        
+         
+    
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.destination {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.destination img {
+  width: 100%;
+  border-radius: 5px;}
+  
